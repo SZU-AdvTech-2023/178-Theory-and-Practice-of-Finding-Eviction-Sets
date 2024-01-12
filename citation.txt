@@ -1,0 +1,9 @@
+@inproceedings{REPO178,
+    author = "Vila, Pepe and Kopf, Boris and Morales, Jose F.",
+    booktitle = "2019 IEEE Symposium on Security and Privacy (SP)",
+    number = "",
+    pages = "39-54",
+    title = "{Theory and Practice of Finding Eviction Sets}",
+    volume = "",
+    year = "2019"
+}
